@@ -1,5 +1,5 @@
 import React from "react";
-import "./ItemListContainer.css"; // Estilos personalizados para el contenedor
+// import "./ItemListContainer.css"; // Estilos personalizados para el contenedor
 
 const ItemListContainer = ({ greeting }) => {
   return (
