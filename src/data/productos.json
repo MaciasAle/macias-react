@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "ProductoA",
+        "category": "categoryA",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.",
+        "price": 100
+
+    },
+    {
+        "id": 2,
+        "title": "ProductoB",
+        "category": "categoryA",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor."
+        ,
+        "price": 1350
+    },
+    {
+        "id": 3,
+        "title": "ProductoC",
+        "category": "categoryA",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor."
+        ,
+        "price": 213
+    },
+    {
+        "id": 4,
+        "title": "ProductoD",
+        "category": "categoryB",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor."
+        ,
+        "price": 516.5
+    },
+    {
+        "id": 5,
+        "title": "ProductoE",
+        "category": "categoryB",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor."
+        ,
+        "price": 2412
+    },
+    {
+        "id": 6,
+        "title": "ProductoF",
+        "category": "categoryC",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor."
+        ,
+        "price": 242
+    },
+    {
+        "id": 7,
+        "title": "ProductoG",
+        "category": "categoryA",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor."
+        ,
+        "price": 1212
+    },
+    {
+        "id": 8,
+        "title": "ProductoH",
+        "category": "categoryD",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor."
+        ,
+        "price": 422
+    },
+    {
+        "id": 9,
+        "title": "ProductoI",
+        "category": "categoryC",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor."
+        ,
+        "price": 421
+    },
+    {
+        "id": 10,
+        "title": "ProductoJ",
+        "category": "categoryB",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor."
+        ,
+        "price": 10230
+    }
+]

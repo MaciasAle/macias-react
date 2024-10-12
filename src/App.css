@@ -1,4 +1,4 @@
-#root {
+/* #root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
@@ -70,4 +70,27 @@
 
 .nav-links a:hover {
   color: #f4d03f;
+} */
+
+#root {
+  min-width: 90vw;
+  min-height: 100vh;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  border: ridge 4px;
+}
+
+.navbar {
+  display: grid;
+  grid-auto-flow: column;
+  grid-column-gap: 10px;
+  border: solid 1px;
+}
+
+.navbar ul {
+  list-style: none;
+  display: grid;
+  grid-auto-flow: column;
+  grid-column-gap: 30px;
 }
