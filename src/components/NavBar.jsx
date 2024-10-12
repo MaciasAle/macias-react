@@ -1,7 +1,7 @@
 import React from "react";
 import "../styles/navbar.scss";
 
-const navbar = () => {
+const NavBar = () => {
   return (
     <nav className="navbar">
       <div className="logo">
